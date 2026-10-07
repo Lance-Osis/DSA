@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DoubleLinkedClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a9b469e43280b20c40ef5ddacac8f96e014492c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DoubleLinkedClass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DoubleLinkedClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
