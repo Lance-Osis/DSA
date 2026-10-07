@@ -1,0 +1,14 @@
+d:\VSCode projects\LinkedList\DoubleLinkedClass\bin\Debug\net10.0\DoubleLinkedClass.exe
+d:\VSCode projects\LinkedList\DoubleLinkedClass\bin\Debug\net10.0\DoubleLinkedClass.deps.json
+d:\VSCode projects\LinkedList\DoubleLinkedClass\bin\Debug\net10.0\DoubleLinkedClass.runtimeconfig.json
+d:\VSCode projects\LinkedList\DoubleLinkedClass\bin\Debug\net10.0\DoubleLinkedClass.dll
+d:\VSCode projects\LinkedList\DoubleLinkedClass\bin\Debug\net10.0\DoubleLinkedClass.pdb
+d:\VSCode projects\LinkedList\DoubleLinkedClass\obj\Debug\net10.0\DoubleLinkedClass.GeneratedMSBuildEditorConfig.editorconfig
+d:\VSCode projects\LinkedList\DoubleLinkedClass\obj\Debug\net10.0\DoubleLinkedClass.AssemblyInfoInputs.cache
+d:\VSCode projects\LinkedList\DoubleLinkedClass\obj\Debug\net10.0\DoubleLinkedClass.AssemblyInfo.cs
+d:\VSCode projects\LinkedList\DoubleLinkedClass\obj\Debug\net10.0\DoubleLinkedClass.csproj.CoreCompileInputs.cache
+d:\VSCode projects\LinkedList\DoubleLinkedClass\obj\Debug\net10.0\DoubleLinkedClass.dll
+d:\VSCode projects\LinkedList\DoubleLinkedClass\obj\Debug\net10.0\refint\DoubleLinkedClass.dll
+d:\VSCode projects\LinkedList\DoubleLinkedClass\obj\Debug\net10.0\DoubleLinkedClass.pdb
+d:\VSCode projects\LinkedList\DoubleLinkedClass\obj\Debug\net10.0\DoubleLinkedClass.genruntimeconfig.cache
+d:\VSCode projects\LinkedList\DoubleLinkedClass\obj\Debug\net10.0\ref\DoubleLinkedClass.dll

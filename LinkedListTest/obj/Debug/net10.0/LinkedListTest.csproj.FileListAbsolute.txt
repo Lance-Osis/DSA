@@ -1,0 +1,14 @@
+D:\VSCode projects\LinkedList\LinkedListTest\bin\Debug\net10.0\LinkedListTest.exe
+D:\VSCode projects\LinkedList\LinkedListTest\bin\Debug\net10.0\LinkedListTest.deps.json
+D:\VSCode projects\LinkedList\LinkedListTest\bin\Debug\net10.0\LinkedListTest.runtimeconfig.json
+D:\VSCode projects\LinkedList\LinkedListTest\bin\Debug\net10.0\LinkedListTest.dll
+D:\VSCode projects\LinkedList\LinkedListTest\bin\Debug\net10.0\LinkedListTest.pdb
+D:\VSCode projects\LinkedList\LinkedListTest\obj\Debug\net10.0\LinkedListTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode projects\LinkedList\LinkedListTest\obj\Debug\net10.0\LinkedListTest.AssemblyInfoInputs.cache
+D:\VSCode projects\LinkedList\LinkedListTest\obj\Debug\net10.0\LinkedListTest.AssemblyInfo.cs
+D:\VSCode projects\LinkedList\LinkedListTest\obj\Debug\net10.0\LinkedListTest.csproj.CoreCompileInputs.cache
+D:\VSCode projects\LinkedList\LinkedListTest\obj\Debug\net10.0\LinkedListTest.dll
+D:\VSCode projects\LinkedList\LinkedListTest\obj\Debug\net10.0\refint\LinkedListTest.dll
+D:\VSCode projects\LinkedList\LinkedListTest\obj\Debug\net10.0\LinkedListTest.pdb
+D:\VSCode projects\LinkedList\LinkedListTest\obj\Debug\net10.0\LinkedListTest.genruntimeconfig.cache
+D:\VSCode projects\LinkedList\LinkedListTest\obj\Debug\net10.0\ref\LinkedListTest.dll
